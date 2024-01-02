@@ -30,6 +30,16 @@
     top: 70%;
 }
 
+/* left sidebar content */
+nav a.active{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+
+
+
 @media screen and (max-width: 600px) {
     .tooltip-container{
         left: 20%;

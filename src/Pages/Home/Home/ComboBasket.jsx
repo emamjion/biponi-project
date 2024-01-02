@@ -15,9 +15,10 @@ const ComboBasket = () => {
                 {
                     baskets.map(basket => <div
                         key={basket.id}
+                        className=''
                     >
                         <div className='bg-[#FFFFFF] p-3 rounded-3xl h-full'>
-                            <img src={basket.image} />
+                            <img src={basket.image} className='' />
                             <div>
                                 <h2 className='text-2xl font-medium my-3'>{basket.price} $</h2>
                                 <h4 className=''>{basket.name}</h4>

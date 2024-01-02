@@ -12,6 +12,7 @@ const FreeDevlivery = () => {
                     </div>
                 </div>
             </div>
+            {/* TODO: When main container will be hover then tooltip will be show. otherwise not show */}
             <div className='flex items-center justify-center flex-col mt-4 tooltip-container'>
                 <div className='bg-[#fff] w-40 md:w-52 h-20 md:h-32 flex items-start justify-center flex-col rounded-3xl'>
                     <div className='mx-auto'>
