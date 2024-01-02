@@ -1,0 +1,62 @@
+[
+    {
+        "id" : "1",
+        "price" : "2500",
+        "name" : "Cheeseburger Combo",
+        "image" : "https://i.postimg.cc/jdfPW9F0/combo-1.jpg"
+    },
+    {
+        "id" : "2",
+        "price" : "2950",
+        "name" : "Twister Kebab Combo",
+        "image" : "https://i.postimg.cc/85FbPbJZ/combo-2.jpg"
+    },
+    {
+        "id" : "3",
+        "price" : "2650",
+        "name" : "Twister Kebab Combo",
+        "image" : "https://i.postimg.cc/YSTW8B0x/combo-3.png"
+    },
+    {
+        "id" : "4",
+        "price" : "1900",
+        "name" : "Eye Twister Combo",
+        "image" : "https://i.postimg.cc/RhZ4HNmp/combo-4.jpg"
+    },
+    {
+        "id" : "5",
+        "price" : "1900",
+        "name" : "Longer Combo",
+        "image" : "https://i.postimg.cc/GhNd4L5z/combo-5.jpg"
+    },
+    {
+        "id" : "6",
+        "price" : "3400",
+        "name" : "Sanders Mega Burger Combo",
+        "image" : "https://i.postimg.cc/MZ38LZqx/combo-6.jpg"
+    },
+    {
+        "id" : "7",
+        "price" : "2650",
+        "name" : "Chef Burger Combo",
+        "image" : "https://i.postimg.cc/XqptWF4W/combo-7.jpg"
+    },
+    {
+        "id" : "8",
+        "price" : "3350",
+        "name" : "Double Chef Burger Combo",
+        "image" : "https://i.postimg.cc/FR2w9zRJ/combo-8.jpg"
+    },
+    {
+        "id" : "9",
+        "price" : "3200",
+        "name" : "Chef Tower Combo",
+        "image" : "https://i.postimg.cc/hP0ZYp9m/combo-9.jpg"
+    },
+    {
+        "id" : "10",
+        "price" : "3100",
+        "name" : "Boxmaster Combo",
+        "image" : "https://i.postimg.cc/9MTJYpmr/combo-10.jpg"
+    }
+]

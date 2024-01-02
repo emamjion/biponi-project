@@ -4,6 +4,8 @@ import FreeDevlivery from './FreeDevlivery';
 import ComboBasket from './ComboBasket';
 import JuicyChicken from './JuicyChicken';
 import Snacks from './Snacks';
+import Combo from './Combo';
+import Drinks from './Drinks';
 
 const MainContent = () => {
     return (
@@ -13,6 +15,8 @@ const MainContent = () => {
             <ComboBasket/>
             <JuicyChicken/>
             <Snacks/>
+            <Combo/>
+            <Drinks/>
         </div>
     );
 };

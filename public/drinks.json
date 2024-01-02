@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1",
+        "name" : "Lipton Ice Tea",
+        "price" : "550",
+        "image" : "https://i.postimg.cc/B6Vq9HR5/drinks-1.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Pepsi",
+        "price" : "550",
+        "image" : "https://i.postimg.cc/kX8tsgtY/drinks-2.jpg"
+    },
+    {
+        "id" : "3",
+        "name" : "Water Asu",
+        "price" : "400",
+        "image" : "https://i.postimg.cc/pLsVYwk1/drinks-3.jpg"
+    },
+    {
+        "id" : "4",
+        "name" : "Da-Da Peach Juice",
+        "price" : "400",
+        "image" : "https://i.postimg.cc/xCz0QcQW/drinks-4.jpg"
+    },
+    {
+        "id" : "5",
+        "name" : "Pepsi Zero",
+        "price" : "550",
+        "image" : "https://i.postimg.cc/Wz7cpZHf/drinks-5.jpg"
+    }
+]
