@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "1",
+        "name" : "Bites basket",
+        "price" : "2350",
+        "image" : "https://i.postimg.cc/nL9YtXGf/snacks-1.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Bites & Fries",
+        "price" : "1490",
+        "image" : "https://i.postimg.cc/m20g5hkH/snacks-2.jpg"
+    },
+    {
+        "id" : "3",
+        "name" : "Large French Fries",
+        "price" : "690",
+        "image" : "https://i.postimg.cc/J0jRw5GH/snacks-3.jpg"
+    },
+    {
+        "id" : "4",
+        "name" : "Basket of Fries",
+        "price" : "1100",
+        "image" : "https://i.postimg.cc/Sx318FZq/snacks-4.jpg"
+    },
+    {
+        "id" : "5",
+        "name" : "Hash Browns",
+        "price" : "400",
+        "image" : "https://i.postimg.cc/JhKyvm9C/snacks-5.png"
+    },
+    {
+        "id" : "6",
+        "name" : "6 Nuggets",
+        "price" : "990",
+        "image" : "https://i.postimg.cc/rwDMMT0L/snacks-6.jpg"
+    },
+    {
+        "id" : "7",
+        "name" : "16 Chicken Nuggets",
+        "price" : "2500",
+        "image" : "https://i.postimg.cc/rwDMMT0L/snacks-6.jpg"
+    },
+    {
+        "id" : "8",
+        "name" : "Standard French Fries",
+        "price" : "590",
+        "image" : "https://i.postimg.cc/J0jRw5GH/snacks-3.jpg"
+    }
+]

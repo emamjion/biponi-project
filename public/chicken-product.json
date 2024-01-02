@@ -1,0 +1,14 @@
+[
+    {
+        "id" : "1",
+        "name" : "Strips 5 pcs",
+        "price" : "1800",
+        "image" : "https://i.postimg.cc/JhnVTnpV/chicken-1.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Strips 7 pcs",
+        "price" : "2350",
+        "image" : "https://i.postimg.cc/JhnVTnpV/chicken-1.jpg"
+    }
+]
