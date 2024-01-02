@@ -2,17 +2,14 @@ import React from 'react';
 import Navbar from '../Pages/Shared/Navbar/Navbar';
 import { Outlet } from 'react-router-dom';
 import Footer from '../Pages/Shared/Footer/Footer';
+import MainContent from '../Pages/Home/Home/MainContent';
 
 const MainLayout = () => {
     return (
-        <div>
+        <div className='bg-[#F5F4F2]'>
             <Navbar/>
             
-            <div className='mt-6 flex flex-col md:flex-row mx-6 md:mx-12 lg:mx-[120px] h-screen'>
-                <div className='border md:w-1/5 p-4'>Left</div>
-                <div className='border flex-1 my-6 md:my-0'>main</div>
-                <div className='border md:w-1/5 p-4'>right</div>
-            </div>
+            <Outlet/>
 
             <Footer/>
         </div>

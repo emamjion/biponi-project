@@ -1,3 +1,44 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* Banner background */
+.banner-bg{
+    background: linear-gradient(to right,rgba(142, 129, 124, 0.60),rgba(0,0,0,0.03)),url('./assets/images/banner/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 32px;
+    /* height: 400px; */
+}
+
+/* Free develivery section */
+.main-container{
+    position: relative;
+}
+.tooltip-container{
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    transition: 0.3s ease-in-out;
+    opacity: 0;
+    transform: translate(-50%,2%);
+}
+.main-container:hover .tooltip-container{
+    opacity: 1;
+    top: 70%;
+}
+
+@media screen and (max-width: 600px) {
+    .tooltip-container{
+        left: 20%;
+        transition: 0.3s ease-in-out;
+        opacity: 0;
+        transform: translateX(10%);
+    }
+    .main-container:hover .tooltip-container{
+        opacity: 1;
+        top: 60%;
+    }
+}

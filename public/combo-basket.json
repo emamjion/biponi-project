@@ -1,0 +1,68 @@
+[
+    {
+        "id" : "1",
+        "price" : "3 550",
+        "name" : "Basket 4 legs Combo",
+        "image" : "https://i.postimg.cc/wBxs4MjH/combo-2.png"
+    },
+    {
+        "id" : "2",
+        "price" : "6 950",
+        "name" : "Basket 9 legs Combo",
+        "image" : "https://i.postimg.cc/G2tW3Fq2/combo-3.jpg"
+    },
+    {
+        "id" : "3",
+        "price" : "10 200",
+        "name" : "Basket 4 legs Combo",
+        "image" : "https://i.postimg.cc/wBxs4MjH/combo-2.png"
+    },
+    {
+        "id" : "4",
+        "price" : "8 650",
+        "name" : "Friends Box Combo",
+        "image" : "https://i.postimg.cc/C5FmLSF4/combo-4.jpg"
+    },
+    {
+        "id" : "5",
+        "price" : "3 550",
+        "name" : "Basket M Combo",
+        "image" : "https://i.postimg.cc/yNpRtRxB/combo-6.jpg"
+    },
+    {
+        "id" : "6",
+        "price" : "5 890",
+        "name" : "Basket Sanders Duet Combo",
+        "image" : "https://i.postimg.cc/wBxs4MjH/combo-2.png"
+    },
+    {
+        "id" : "7",
+        "price" : "6 950",
+        "name" : "Basket 9 legs Combo",
+        "image" : "https://i.postimg.cc/G2tW3Fq2/combo-3.jpg"
+    },
+    {
+        "id" : "8",
+        "price" : "10 200",
+        "name" : "Basket S Combo",
+        "image" : "https://i.postimg.cc/wBxs4MjH/combo-2.png"
+    },
+    {
+        "id" : "9",
+        "price" : "8 650",
+        "name" : "Friends Box Combo",
+        "image" : "https://i.postimg.cc/C5FmLSF4/combo-4.jpg"
+    },
+    {
+        "id" : "10",
+        "price" : "8 350",
+        "name" : "Basket Sanders Trio Combo Spicy",
+        "image" : "https://i.postimg.cc/yNpRtRxB/combo-6.jpg"
+    },
+    {
+        "id" : "11",
+        "price" : "9 990",
+        "name" : "Family Box Combo",
+        "image" : "https://i.postimg.cc/yNpRtRxB/combo-6.jpg"
+    }
+]
