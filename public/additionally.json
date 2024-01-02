@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "1",
+        "name" : "Sweet and Sour Sauce",
+        "price" : "150",
+        "image" : "https://i.postimg.cc/m27Lcc0j/products-1.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Barbecue Sauce",
+        "price" : "150",
+        "image" : "https://i.postimg.cc/3NBt6Fk9/products-2.jpg"
+    },
+    {
+        "id" : "3",
+        "name" : "Garlic Sauce",
+        "price" : "150",
+        "image" : "https://i.postimg.cc/rpNR5n3h/products-3.jpg"
+    },
+    {
+        "id" : "4",
+        "name" : "Teriyaki Sauce",
+        "price" : "150",
+        "image" : "https://i.postimg.cc/3NBt6Fk9/products-2.jpg"
+    },
+    {
+        "id" : "5",
+        "name" : "Ketchup",
+        "price" : "150",
+        "image" : "https://i.postimg.cc/HLrskSHc/products-5.jpg"
+    },
+    {
+        "id" : "6",
+        "name" : "Cheese Sauce",
+        "price" : "150",
+        "image" : "https://i.postimg.cc/t4tFz4Vt/products-6.jpg"
+    },
+    {
+        "id" : "7",
+        "name" : "Bun",
+        "price" : "150",
+        "image" : "https://i.postimg.cc/Bb0hmQCT/products-7.jpg"
+    },
+    {
+        "id" : "8",
+        "name" : "Cheese",
+        "price" : "150",
+        "image" : "https://i.postimg.cc/y6L9Q8n7/products-8.jpg"
+    }
+]

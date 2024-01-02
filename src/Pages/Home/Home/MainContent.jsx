@@ -6,6 +6,7 @@ import JuicyChicken from './JuicyChicken';
 import Snacks from './Snacks';
 import Combo from './Combo';
 import Drinks from './Drinks';
+import Additionally from './Additionally';
 
 const MainContent = () => {
     return (
@@ -17,6 +18,7 @@ const MainContent = () => {
             <Snacks/>
             <Combo/>
             <Drinks/>
+            <Additionally/>
         </div>
     );
 };
